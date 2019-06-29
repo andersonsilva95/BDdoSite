@@ -27,9 +27,9 @@
   <p class="level-item has-text-centered">
     <a class="link is-info" href="logar.php">Logar</a>
   </p>
-  <p class="level-item has-text-centered">
+  <!-- <p class="level-item has-text-centered">
     <a class="link is-info">Produtos</a>
-  </p>
+  </p> -->
 </nav>
 
 <!-- SEÇÃO DE CADASTRO -->
