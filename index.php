@@ -28,10 +28,26 @@
   <p class="level-item has-text-centered">
     <a class="link is-info" href="logar.php">Logar</a>
   </p>
-  <p class="level-item has-text-centered">
+ <!--  <p class="level-item has-text-centered">
     <a class="link is-info">Produtos</a>
-  </p>
+  </p> -->
 </nav>
+<div class="notification">
+<section class="hero is-info is-large">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        Blog pessoal para desenvolvimento de sites
+      </h1>
+      <h2 class="subtitle"><br>
+        Totalmente experimental!
+      </h2>
+    </div>
+  </div>
+</section> 
+</div>
+
+
 
 <section class="hero is-success is-fullheight">
         <div class="hero-body">
@@ -45,12 +61,19 @@
 
 
 
-
-
-
             </div>
+
         </div>
-    </section>      
+
+    </section>   
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <strong>Site feito com recursos do framework</strong> <a href="https://bulma.io/"> Bulma</a>.
+    </p>
+  </div>
+</footer>
+  
 </body>
 
 </html>

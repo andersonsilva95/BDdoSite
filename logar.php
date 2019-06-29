@@ -61,3 +61,10 @@
         </div>
     </section>
 </body>
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p>
+      <strong>Site feito com recursos do framework</strong> <a href="https://bulma.io/"> Bulma</a>.
+    </p>
+  </div>
+</footer>
