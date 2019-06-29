@@ -12,7 +12,45 @@
 </head>
 
 <body>
-  
+    
+    <div class="container">
+  <div class="notification">
+    <nav class="level">
+  <p class="level-item has-text-centered">
+    <a class="link is-info" href="index.php">Inicio</a>
+  </p>
+  <p class="level-item has-text-centered">
+    <a class="link is-info" href="cadastro.php">Cadastro</a>
+  </p>
+  <!--<p class="level-item has-text-centered">
+    <img src="https://bulma.io/images/bulma-type.png" alt="" style="height: 30px;">
+  </p>-->
+  <p class="level-item has-text-centered">
+    <a class="link is-info" href="logar.php">Logar</a>
+  </p>
+  <p class="level-item has-text-centered">
+    <a class="link is-info">Produtos</a>
+  </p>
+</nav>
+
+<section class="hero is-success is-fullheight">
+        <div class="hero-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </section>      
 </body>
 
 </html>
