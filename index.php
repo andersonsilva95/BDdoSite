@@ -12,10 +12,11 @@
 </head>
 
 <body>
+
 <nav class="navbar is-transparent">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
-      <img src="https://bulma.io/images/bulma-logo.png" alt="Bulma: a modern CSS framework based on Flexbox" width="112" height="28">
+    <a class="navbar-item" href="index.php">
+      <img src="https://media2.giphy.com/media/VD6b0RgwT5sEo/giphy.gif?cid=790b76115d1701c049622f79493f8262&rid=giphy.gif" alt="Bulma: a modern CSS framework based on Flexbox" width="60" >
     </a>
     <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
       <span></span>
@@ -50,12 +51,6 @@
   </div>
 </nav>
 
-
-
-    
-
-
-
     <section class="hero is-info is-large">
         <div class="hero-body">
             <div class="container">
@@ -66,7 +61,6 @@
             </div>
         </div>
     </section> 
-<!-- </div> -->
 
 <center><img src="https://media2.giphy.com/media/VD6b0RgwT5sEo/giphy.gif?cid=790b76115d1701c049622f79493f8262&rid=giphy.gif"></center>
  

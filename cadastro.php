@@ -12,26 +12,44 @@
 </head>
 
 <body>
-        <!-- BARRA DE NAVEGAÇÃO -->
- <div class="container">
-  <div class="notification">
-    <nav class="level">
-  <p class="level-item has-text-centered">
-    <a class="link is-info" href="index.php">Inicio</a>
-  </p>
-  <p class="level-item has-text-centered">
-    <a class="link is-info" href="cadastro.php">Cadastro</a>
-  </p>
-  <!--<p class="level-item has-text-centered">
-    <img src="https://bulma.io/images/bulma-type.png" alt="" style="height: 30px;">
-  </p>-->
-  <p class="level-item has-text-centered">
-    <a class="link is-info" href="logar.php">Logar</a>
-  </p>
-  <!-- <p class="level-item has-text-centered">
-    <a class="link is-info">Produtos</a>
-  </p> -->
+<nav class="navbar is-transparent">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="index.php">
+      <img src="https://media2.giphy.com/media/VD6b0RgwT5sEo/giphy.gif?cid=790b76115d1701c049622f79493f8262&rid=giphy.gif" alt="Bulma: a modern CSS framework based on Flexbox" width="60" >
+    </a>
+    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+  <div id="navbarExampleTransparentExample" class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item" href="index.php">
+        Inicio
+      </a>
+      <a class="navbar-item" href="cadastro.php">
+        Cadastro
+      </a>
+      <a class="navbar-item" href="logar.php">
+        Logar
+      </a>
+      
+    </div>
+
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <div class="field is-grouped">
+          <p class="control">
+       
+         
+        </div>
+      </div>
+    </div>
+  </div>
 </nav>
+
 
     <section class="hero is-success is-fullheight">
         <div class="hero-body">
